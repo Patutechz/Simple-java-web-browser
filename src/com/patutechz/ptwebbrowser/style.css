@@ -1,0 +1,31 @@
+.button{
+    -fx-text-fill: #006464;
+ -fx-background-color: #DFB951;
+ -fx-border-radius: 20;
+ -fx-background-radius: 20;
+ -fx-padding: 5;
+}
+.menu{
+    -fx-text-fill: #006464;
+ -fx-background-color: #DFB951;
+ -fx-border-radius: 20;
+ -fx-background-radius: 20;
+ -fx-padding: 5;
+}
+.text-field{
+    -fx-text-fill: white;
+ -fx-background-color: black;
+ -fx-border-radius: 20;
+ -fx-background-radius: 20;
+ -fx-padding: 5;
+
+}
+.menu-item,.menu-bar{
+    -fx-text-fill: #006464;
+ -fx-background-color: #DFB951;
+ -fx-border-radius: 20;
+ -fx-background-radius: 20;
+ -fx-padding: 5;
+}
+
+
